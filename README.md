@@ -6,11 +6,13 @@
 
 - appl: 苹果公司的部分股票数据
 - bra: 来自京东商城的关于胸罩的评论数据
+- body-information: 500人的性别、身高、体重数据
 - chinagdp：中国历年gdp增长率
 - elements: 化学元素数据
 - flight: 美国的部分航空数据
 - gaokao: 部分高考有关的数据
 - gdppop: 部分城市的GDP和人口数量
+- major-league-baseball：美国职业棒球大联盟的薪水
 - marath: 马拉松运动员的跑步计时数据
 - jiangsu: 江苏省各个城市的名称、人口和地理经纬度坐标
 - school: 美国部分高校就业薪水
